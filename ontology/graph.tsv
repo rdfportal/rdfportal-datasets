@@ -10,7 +10,7 @@ pattern	graph
 ../faldo/latest/*.ttl	http://rdfportal.org/ontology/faldo
 ../fma/latest/*.owl	http://rdfportal.org/ontology/fma
 ../foaf/latest/*.owl	http://rdfportal.org/ontology/foaf
-../glycordf/latest/*.owl	http://rdfportal.org/ontology/glycordf
+../glycordf/latest/*.xml	http://rdfportal.org/ontology/glycordf
 ../go/latest/*.xml	http://rdfportal.org/ontology/go
 ../hp/latest/*.xml	http://rdfportal.org/ontology/hp
 ../meo/latest/*.ttl	http://rdfportal.org/ontology/meo
